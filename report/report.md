@@ -95,7 +95,7 @@ Injecting a small number of extreme outliers causes a significant increase in pr
 
 Visualization of regression lines reveals that outliers substantially shift the fitted model, even though most data points remain unchanged.
 
-![Regression shift due to outliers](../plots/exp3_outlier_shift.png)
+![Regression shift due to outliers](../plots/exp3_outliers_shift.png)
 
 Regularization provides limited robustness, as the underlying squared-error loss still amplifies extreme deviations.
 
