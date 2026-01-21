@@ -28,7 +28,7 @@ We primarily use **synthetic datasets**, which allows full control over data-gen
 - **Multicollinearity**: highly correlated features to study coefficient instability  
 - **Outliers**: injected extreme values to test robustness  
 
-(Optional) A real-world regression dataset may be added for comparison.
+
 
 ---
 
